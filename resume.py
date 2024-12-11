@@ -72,7 +72,6 @@ if choice == "About Me":
         - **Digital Health**
         """
     )
-
 elif choice == "Key Projects":
     st.header("Key Projects")
     projects = {
