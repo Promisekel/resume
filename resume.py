@@ -7,7 +7,7 @@ def main():
     st.sidebar.title("Navigation")
     st.sidebar.image(
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIBfJxFgGX2d961bTaupSiOuAS8TmF_7BC0g&s",
-    use_column_width=True,
+    width=150,
     )
     menu = ["About Me", "Key Projects", "Education", "Current Focus", "Contact"]
     choice = st.sidebar.radio("Go to", menu)
