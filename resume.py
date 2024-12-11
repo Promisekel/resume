@@ -4,7 +4,7 @@ def main():
     st.set_page_config(page_title="Promise Bansah - Bio", page_icon="📄", layout="wide")
 
     # Sidebar Navigation
-    st.sidebar.title("Navigation")
+    #st.sidebar.title("Navigation")
     st.sidebar.image(
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIBfJxFgGX2d961bTaupSiOuAS8TmF_7BC0g&s",
     width=150,
@@ -47,10 +47,22 @@ def main():
             and apply an entrepreneurial approach to problem solving to contribute to data-driven solutions for sustainable development.. 
 
             With expertise in:
-            - Digital Public Health
-            - Machine Learning Algorithms
-            - Clinical Trials 
-
+            RESEARCH
+                - Infectious Disease Epidemiology
+                - Clinical Research
+                - Publication
+                - Data Analysis and Presentation
+            PROGRAMMING
+                - Software Engineerring
+                - Android Application Development
+                - Python Coding
+            DATA SCIENCE
+                - Machine Learning and modelling
+                - Data analytics 
+                - AI
+                - R
+                - Digital Health
+            
             Promise is dedicated to leveraging data-driven solutions for improved health outcomes.
             """
         )
