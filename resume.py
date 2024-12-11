@@ -45,8 +45,11 @@ def main():
             to recurrent malaria among children under 5 years. I am enthusiastic and eager to contribute to the development of predictive
             model and deploy for quality healthcare in Africa. I am seeking opportunities to join a dynamic lab or fellowship to learn, adaptability, 
             and apply an entrepreneurial approach to problem solving to contribute to data-driven solutions for sustainable development.. 
+            """
+        )
 
-            With expertise in:
+           st.markdown(
+           With expertise in:
             ### RESEARCH
                 - **Infectious Disease Epidemiology**  
                 - **Clinical Research**  
@@ -65,9 +68,6 @@ def main():
                 - **R**  
                 - **Digital Health**
                 """
-                            
-            Promise is dedicated to leveraging data-driven solutions for improved health outcomes.
-            """
         )
 
     elif choice == "Key Projects":
