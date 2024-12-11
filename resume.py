@@ -47,8 +47,7 @@ def main():
             and apply an entrepreneurial approach to problem solving to contribute to data-driven solutions for sustainable development.. 
             """
         )
-
-           st.markdown(
+        st.markdown(
            With expertise in:
             ### RESEARCH
                 - **Infectious Disease Epidemiology**  
