@@ -35,14 +35,21 @@ def main():
         st.header("About Me")
         st.markdown(
             """
-            **Promise Bansah** is a researcher and data scientist with a strong background in public health and infectious disease epidemiology.
-            Currently pursuing a Master's in Biomedical Data Science, Promise combines advanced analytics, machine learning, and epidemiological insights 
-            to address pressing global health challenges. 
+            **Promise Bansah** I am a researcher and data scientist passionate about using data for positive social impact through
+            evident-based research, particularly in Africa. With a strong foundation in epidemiology, public health, biostatistics
+            and data science and machine learning, I have developed my skills in data analytics, machine learning and data visualization.
+            My previous and current experiences have demonstrated my ability to apply data science to address complex challenges,
+            such as developing a model to predict pneumonia using x-ray image by applying deep learning techniques. 
+            In my current project “prediction of malaria recurrence in children under 5 years after ACT treatment using machine learning models 
+            in the Central Region of Ghana.” Particularly focusing on environmental or climate factors or features that could contribute
+            to recurrent malaria among children under 5 years. I am enthusiastic and eager to contribute to the development of predictive
+            model and deploy for quality healthcare in Africa. I am seeking opportunities to join a dynamic lab or fellowship to learn, adaptability, 
+            and apply an entrepreneurial approach to problem solving to contribute to data-driven solutions for sustainable development.. 
 
             With expertise in:
             - Digital Public Health
             - Machine Learning Algorithms
-            - Clinical Trials & Diagnostics
+            - Clinical Trials 
 
             Promise is dedicated to leveraging data-driven solutions for improved health outcomes.
             """
