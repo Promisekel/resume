@@ -37,13 +37,10 @@ def main():
             I am a researcher and data scientist passionate about using data for positive social impact through evidence-based research, particularly in Africa. 
             With a strong foundation in epidemiology, public health, biostatistics, and data science, I have developed my skills in data analytics, machine learning, 
             and data visualization.
-
             My previous and current experiences have demonstrated my ability to apply data science to address complex challenges, such as developing a model 
             to predict pneumonia using X-ray images by applying deep learning techniques. 
-
             In my current project, *Prediction of Malaria Recurrence in Children Under 5 Years After ACT Treatment Using Machine Learning Models in the Central Region of Ghana*, 
             I am particularly focusing on environmental or climate factors that could contribute to recurrent malaria among children under 5 years. 
-
             I am enthusiastic and eager to contribute to the development of predictive models and their deployment for quality healthcare in Africa. 
             I am seeking opportunities to join a dynamic lab or fellowship to learn, adapt, and apply an entrepreneurial approach to problem-solving 
             to contribute to data-driven solutions for sustainable development.
