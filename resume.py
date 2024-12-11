@@ -26,7 +26,7 @@ def main():
 
     # Header Section
     st.title("Promise Bansah")
-    st.markdown("# Researcher | Public Health Expert | Data Scientist")
+    st.markdown("##### Researcher | Public Health Expert | Data Scientist")
 
     # Content Sections
     if choice == "About Me":
