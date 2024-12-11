@@ -28,7 +28,7 @@ def main():
     # Header Section
     st.title("Promise Bansah")
     st.markdown("### Researcher | Public Health Expert | Data Scientist")
-    st.image("https://via.placeholder.com/300", caption="Profile Picture", use_column_width=True)
+    #st.image("https://via.placeholder.com/300", caption="Profile Picture", use_column_width=True)
 
     # Content Sections
     if choice == "About Me":
