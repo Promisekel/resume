@@ -72,7 +72,7 @@ if choice == "About Me":
         - **Digital Health**
         """
     )
-elif choice == "Key Projects":
+if choice == "Key Projects":
     st.header("Key Projects")
     projects = {
         "Dengue Outbreak Forecasting": "Developing a multimodal machine learning framework to predict dengue outbreaks using heterogeneous data.",
@@ -94,25 +94,14 @@ elif choice == "Education":
         """
     )
 
-    elif choice == "Current Focus":
-        st.header("Current Focus")
-        st.markdown(
-            """
-            - Preparing for an examination covering Algebra, Calculus, Data Science, Molecular Biology, and diseases like malaria and cleft palate.
-            - Developing Android Studio projects with Firebase integration.
-            - Coordinating research manuscripts for publication.
-            """
-        )
-
-    elif choice == "Contact":
-        st.header("Contact")
-        st.markdown(
-            """
-            - **Email:** promise.bansah@example.com
-            - **GitHub:** [Promisekel](https://github.com/Promisekel)
-            - **LinkedIn:** [Promise Bansah](https://www.linkedin.com/in/promisekel/)
-            """
-        )
+elif choice == "Contact":
+    st.header("Contact")
+    st.markdown(
+        """
+        - **Email:** promise.bansah@example.com
+        - **GitHub:** [Promisekel](https://github.com/Promisekel)
+        - **LinkedIn:** [Promise Bansah](https://www.linkedin.com/in/promisekel/)
+        """)
 
 if __name__ == "__main__":
     main()
