@@ -47,22 +47,25 @@ def main():
             and apply an entrepreneurial approach to problem solving to contribute to data-driven solutions for sustainable development.. 
 
             With expertise in:
-            RESEARCH
-                - Infectious Disease Epidemiology
-                - Clinical Research
-                - Publication
-                - Data Analysis and Presentation
-            PROGRAMMING
-                - Software Engineerring
-                - Android Application Development
-                - Python Coding
-            DATA SCIENCE
-                - Machine Learning and modelling
-                - Data analytics 
-                - AI
-                - R
-                - Digital Health
-            
+            ### RESEARCH
+                - **Infectious Disease Epidemiology**  
+                - **Clinical Research**  
+                - **Publication**  
+                - **Data Analysis and Presentation**
+                
+                ### PROGRAMMING
+                - **Software Engineering**  
+                - **Android Application Development**  
+                - **Python Coding**
+                
+                ### DATA SCIENCE
+                - **Machine Learning and Modeling**  
+                - **Data Analytics**  
+                - **AI**  
+                - **R**  
+                - **Digital Health**
+                """
+                            
             Promise is dedicated to leveraging data-driven solutions for improved health outcomes.
             """
         )
