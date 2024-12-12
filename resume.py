@@ -98,7 +98,28 @@ def main():
         """,
         unsafe_allow_html=True,
     )
-
+        projects = [
+        {
+            "title": "Developed deep learning model for predicting pneumonia using X-ray images",
+            "link": "https://github.com/Promisekel/pneumonia-detection",
+        },
+        {
+            "title": "Developed Android app for File Management",
+            "link": "https://play.google.com/store/apps/details?id=com.example.filemanager",
+        },
+        {
+            "title": "Developed Android app for project management at KCCR",
+            "link": "",
+        },
+        {
+            "title": "Developed a Bible Verse Android App",
+            "link": "https://play.google.com/store/apps/details?id=com.example.bibleverse",
+        },
+        {
+            "title": "CEO of Premiere Scientific and Research Publication Club",
+            "link": "https://premirescientific.com",
+        },
+    ]
     
 
     for project in projects:
