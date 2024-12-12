@@ -1,6 +1,7 @@
 import streamlit as st
 
 def main():
+
     st.set_page_config(page_title="Promise Bansah - Bio", page_icon="📄", layout="wide")
 
     # Sidebar Navigation
@@ -69,8 +70,8 @@ def main():
             """
         )
     elif choice == "Key Projects":
-    st.header("Key Projects")
-    st.markdown(
+        st.header("Key Projects")
+        st.markdown(
         """
         <style>
         .key-project {
@@ -131,9 +132,7 @@ def main():
             """,
             unsafe_allow_html=True,
         )
-
-
-    elif choice == "Education":
+    if choice == "Education":
         st.header("Education")
         st.markdown(
             """
@@ -142,7 +141,6 @@ def main():
             - **MPhil in Biomedical Data Science** (In Progress)
             """
         )
-
     elif choice == "Contact":
         st.header("Contact")
         st.markdown(
