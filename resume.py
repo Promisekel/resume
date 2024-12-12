@@ -68,8 +68,7 @@ def main():
             - **Digital Health**
             """
         )
-
-elif choice == "Key Projects":
+    elif choice == "Key Projects":
     st.header("Key Projects")
     st.markdown(
         """
